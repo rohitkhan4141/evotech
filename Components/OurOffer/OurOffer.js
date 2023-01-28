@@ -1,7 +1,7 @@
 import { Splide, SplideSlide, SplideTrack } from '@splidejs/react-splide';
-import React, { useEffect } from 'react';
+import React from 'react';
 import { BiRightArrow } from 'react-icons/bi';
-import { Grid } from "@splidejs/splide-extension-grid";
+import Image from 'next/image';
 
 
 
@@ -44,7 +44,7 @@ const OurOffer = () => {
               <SplideTrack>
                 <SplideSlide>
                   <div>
-                    <img
+                    <Image
                       className="h-full rounded-lg"
                       src="https://images.pexels.com/photos/5839461/pexels-photo-5839461.jpeg?auto=compress&cs=tinysrgb&w=1600"
                       alt=""
@@ -53,7 +53,7 @@ const OurOffer = () => {
                 </SplideSlide>
                 <SplideSlide>
                   <div>
-                    <img
+                    <Image
                       className="h-full rounded-lg"
                       src="https://images.pexels.com/photos/5839461/pexels-photo-5839461.jpeg?auto=compress&cs=tinysrgb&w=1600"
                       alt=""
@@ -62,7 +62,7 @@ const OurOffer = () => {
                 </SplideSlide>
                 <SplideSlide>
                   <div>
-                    <img
+                    <Image
                       className="h-full rounded-lg"
                       src="https://images.pexels.com/photos/5839461/pexels-photo-5839461.jpeg?auto=compress&cs=tinysrgb&w=1600"
                       alt=""
@@ -71,7 +71,7 @@ const OurOffer = () => {
                 </SplideSlide>
                 <SplideSlide>
                   <div>
-                    <img
+                    <Image
                       className="h-full rounded-lg"
                       src="https://images.pexels.com/photos/5839461/pexels-photo-5839461.jpeg?auto=compress&cs=tinysrgb&w=1600"
                       alt=""
@@ -80,7 +80,7 @@ const OurOffer = () => {
                 </SplideSlide>
                 <SplideSlide>
                   <div>
-                    <img
+                    <Image
                       className="h-full rounded-lg"
                       src="https://images.pexels.com/photos/5839461/pexels-photo-5839461.jpeg?auto=compress&cs=tinysrgb&w=1600"
                       alt=""

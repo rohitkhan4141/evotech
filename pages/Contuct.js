@@ -23,9 +23,9 @@ const Contuct = () => {
       <div className="bg-slate-800 rounded-md p-8 lg:p-20  ">
         <div className="flex lg:flex-row flex-col justify-center items-center ">
           <div className="lg:w-[400px] w-full bg-success p-12 lg:h-[70vh] lg:rounded-l">
-            <h3 className="text-3xl  ">Let's get in touch</h3>
+            <h3 className="text-3xl  ">Lets get in touch</h3>
             <p className="mt-3 mb-8">
-              We're Open for any suggetions or just to have a chat
+              Were Open for any suggetions or just to have a chat
             </p>
             <ul>
               <li className="mt-4 flex justify-start items-start">

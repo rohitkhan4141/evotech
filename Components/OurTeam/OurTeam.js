@@ -37,12 +37,12 @@ const OurTeam = () => {
                 <div className="lg:w-1/2 mt-12">
                   <div className="lg:w-2/3 mx-auto">
                     <h3 className="text-2xl italic mb-12">
-                      "Lorem ipsum dolor sit amet consectetur adipisicing elit.
+                      `&quot;`Lorem ipsum dolor sit amet consectetur adipisicing elit.
                       Sed mollitia, enim omnis corporis placeat, animi modi
                       voluptatibus nostrum rerum, praesentium ex reiciendis nemo
                       tempore. Cum explicabo sit maiores sed ipsam dolor error
                       nisi nemo, voluptatibus unde, aliquam ducimus dolores
-                      quam!"
+                      quam!`&quot;`
                     </h3>
                     <h4 className="text-xl font-bold">Rohit + Sonjibony</h4>
                     <p className="text-slate-400">
@@ -64,12 +64,12 @@ const OurTeam = () => {
                 <div className="lg:w-1/2 mt-12">
                   <div className="lg:w-2/3 mx-auto">
                     <h3 className="text-2xl italic mb-12">
-                      "Lorem ipsum dolor sit amet consectetur adipisicing elit.
+                      `&quot;`Lorem ipsum dolor sit amet consectetur adipisicing elit.
                       Sed mollitia, enim omnis corporis placeat, animi modi
                       voluptatibus nostrum rerum, praesentium ex reiciendis nemo
                       tempore. Cum explicabo sit maiores sed ipsam dolor error
                       nisi nemo, voluptatibus unde, aliquam ducimus dolores
-                      quam!"
+                      quam!`&quot;`
                     </h3>
                     <h4 className="text-xl font-bold">Reyal + Riyan Apu</h4>
                     <p className="text-slate-400">
@@ -91,12 +91,12 @@ const OurTeam = () => {
                 <div className="lg:w-1/2 mt-12">
                   <div className="lg:w-2/3 mx-auto">
                     <h3 className="text-2xl italic mb-12">
-                      "Lorem ipsum dolor sit amet consectetur adipisicing elit.
+                      `&quot;`Lorem ipsum dolor sit amet consectetur adipisicing elit.
                       Sed mollitia, enim omnis corporis placeat, animi modi
                       voluptatibus nostrum rerum, praesentium ex reiciendis nemo
                       tempore. Cum explicabo sit maiores sed ipsam dolor error
                       nisi nemo, voluptatibus unde, aliquam ducimus dolores
-                      quam!"
+                      quam!`&quot;`
                     </h3>
                     <h4 className="text-xl font-bold">Hasan</h4>
                     <p className="text-slate-400">

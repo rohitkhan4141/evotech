@@ -1,4 +1,3 @@
-import Image from 'next/image';
 import React from 'react';
 
 const HelpmeDecide = () => {
@@ -24,7 +23,7 @@ const HelpmeDecide = () => {
           </button>
         </div>
         <div className="lg:w-1/2 flex justify-center lg:ml-24 items-center">
-          <Image
+          <img
             className="w-3/2 h-2/3"
             src="https://i.ibb.co/k0gS3xf/logo-1-removebg-preview.png"
             alt=""

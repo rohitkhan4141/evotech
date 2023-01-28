@@ -1,4 +1,3 @@
-import Image from 'next/image';
 import Link from 'next/link';
 import React from 'react';
 
@@ -9,7 +8,7 @@ const Footer = () => {
       <div className="bg-slate-700">
         <footer className="footer p-10 lg:w-4/5 lg:mx-auto text-base-content">
           <div>
-            <Image
+            <img
               className="w-[80px] h-[100px]"
               src="https://i.ibb.co/k0gS3xf/logo-1-removebg-preview.png"
               alt=""

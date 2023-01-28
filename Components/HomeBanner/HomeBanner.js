@@ -1,4 +1,3 @@
-import Image from "next/image";
 import React from "react";
 
 const HomeBanner = () => {
@@ -29,7 +28,7 @@ const HomeBanner = () => {
             <button className="btn btn-sm btn-primary">Visit Github</button>
           </div>
           <div className="lg:w-1/2 lg:px-4">
-            <Image
+            <img
               className="w-full h-full animateimg"
               src="https://i.ibb.co/Q93vyvH/3d-code-programming-syntax-symbol-premium-psd-transparent-background-106547-89-removebg-preview.png"
               alt=""

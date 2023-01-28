@@ -1,5 +1,4 @@
 import { Splide, SplideSlide, SplideTrack } from "@splidejs/react-splide";
-import Image from "next/image";
 import React from "react";
 import { BiRightArrow } from "react-icons/bi";
 
@@ -56,7 +55,7 @@ const OurTeam = () => {
             <SplideSlide>
               <div className="flex lg:flex-row flex-col lg:mx-0 mx-6 justify-between  items-start">
                 <div className="lg:w-1/2 pr-2">
-                  <Image
+                  <img
                     className="w-full h-[30rem]  shapeimground "
                     src="https://images.pexels.com/photos/4709287/pexels-photo-4709287.jpeg?auto=compress&cs=tinysrgb&w=1600"
                     alt=""
@@ -83,7 +82,7 @@ const OurTeam = () => {
             <SplideSlide>
               <div className="flex lg:flex-row flex-col lg:mx-0 mx-6 justify-between  items-start">
                 <div className="lg:w-1/2 pr-2">
-                  <Image
+                  <img
                     className="w-full h-[30rem]  shapeimground "
                     src="https://images.pexels.com/photos/340152/pexels-photo-340152.jpeg?auto=compress&cs=tinysrgb&w=1600"
                     alt=""

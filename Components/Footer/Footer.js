@@ -8,7 +8,7 @@ const Footer = () => {
         <footer className="footer p-10 lg:w-4/5 lg:mx-auto text-base-content">
           <div>
             <img
-              className="w-3/2 h-2/3"
+              className="w-[80px] h-[100px]"
               src="https://i.ibb.co/k0gS3xf/logo-1-removebg-preview.png"
               alt=""
             />

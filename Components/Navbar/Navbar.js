@@ -19,7 +19,7 @@ const Navbar = () => {
         document.documentElement.scrollTop > 20
       ) {
         setShowButton(true);
-        setNavbg("glassdesign backdrop-blur-md  ease-in duration-300");
+        setNavbg(" backdrop-blur-md  ease-in duration-300");
       } else {
         setShowButton(false);
         setNavbg("bg-transparent ease-out duration-300");
